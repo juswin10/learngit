@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6A82-74BB
+
+ Directory of C:\Users\juswin\Desktop\TestGit
+
+12/23/2020  10:19 AM    <DIR>          .
+12/23/2020  10:19 AM    <DIR>          ..
+12/23/2020  10:19 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  349,203,218,432 bytes free
